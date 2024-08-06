@@ -1,0 +1,6 @@
+com\example\translationservice\model\TranslationRequest.class
+com\example\translationservice\service\TranslationService.class
+com\example\translationservice\TranslationServiceApplication.class
+com\example\translationservice\repository\TranslationRequestRepository.class
+com\example\translationservice\controller\TranslationController.class
+com\example\translationservice\config\RestTemplateConfig.class
